@@ -1,0 +1,17 @@
+<script src="deluxe/js/jquery.min.js"></script>
+  <script src="deluxe/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="deluxe/js/popper.min.js"></script>
+  <script src="deluxe/js/bootstrap.min.js"></script>
+  <script src="deluxe/js/jquery.easing.1.3.js"></script>
+  <script src="deluxe/js/jquery.waypoints.min.js"></script>
+  <script src="deluxe/js/jquery.stellar.min.js"></script>
+  <script src="deluxe/js/owl.carousel.min.js"></script>
+  <script src="deluxe/js/jquery.magnific-popup.min.js"></script>
+  <script src="deluxe/js/aos.js"></script>
+  <script src="deluxe/js/jquery.animateNumber.min.js"></script>
+  <script src="deluxe/js/bootstrap-datepicker.js"></script>
+  <script src="deluxe/js/jquery.timepicker.min.js"></script>
+  <script src="deluxe/js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="deluxe/js/google-map.js"></script>
+  <script src="deluxe/js/main.js"></script>
